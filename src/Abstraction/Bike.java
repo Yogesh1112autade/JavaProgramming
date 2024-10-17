@@ -1,5 +1,6 @@
 package Abstraction;
 
+//here we cannot extends more than one class
 public class Bike extends Vehicle{
 
 	int price=200000;
